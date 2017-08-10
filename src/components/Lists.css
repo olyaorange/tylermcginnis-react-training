@@ -1,0 +1,7 @@
+.list-nav {
+    text-align: center;
+}
+.list-nav a {
+    display: inline-block;
+    margin: 10px 20px;
+}
